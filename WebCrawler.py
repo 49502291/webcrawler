@@ -18,7 +18,7 @@ import Queue
 
 #root url 
 root = "http://www.google.com/"
-#specialsign = "#"
+specialsign = "#"
 
 # A synchronized queue class 
 tovisit = Queue.Queue()
