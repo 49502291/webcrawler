@@ -1,14 +1,11 @@
 #!/usr/bin/env python
 
 """
-Given a dataset that represents a user's navigation of a website, 
-find the top N most frequently visited paths.
-
 Anthor: Yichen Cai
 Version: 0.0.1
-Date: 2016-7-19
-Language: Java
-Editor: Eclipse
+Date: 2016-7-12
+Language: python
+Editor: sublime
 """
 
 import urllib
